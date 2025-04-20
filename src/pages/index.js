@@ -53,18 +53,18 @@ const moreLinks = [
     url: "https://gatsbyjs.com/docs/",
   },
   {
-    text: "Starters",
+    text: "Starters, if you want",
     url: "https://gatsbyjs.com/starters/",
   },
   {
-    text: "Showcase",
+    text: "Showcase, if you want",
     url: "https://gatsbyjs.com/showcase/",
   },
   {
-    text: "Contributing",
+    text: "Contributing, if you want",
     url: "https://www.gatsbyjs.com/contributing/",
   },
-  { text: "Issues", url: "https://github.com/gatsbyjs/gatsby/issues" },
+  { text: "Issues, if you want", url: "https://github.com/gatsbyjs/gatsby/issues" },
 ]
 
 const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
